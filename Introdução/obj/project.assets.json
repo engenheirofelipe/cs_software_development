@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\desktop\\c-_software_development\\c-_software_development.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Desktop\\c-_software_development\\Introdução\\c-_software_development.csproj",
       "projectName": "c-_software_development",
-      "projectPath": "C:\\Users\\felip\\desktop\\c-_software_development\\c-_software_development.csproj",
+      "projectPath": "C:\\Users\\felip\\Desktop\\c-_software_development\\Introdução\\c-_software_development.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\desktop\\c-_software_development\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Desktop\\c-_software_development\\Introdução\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
