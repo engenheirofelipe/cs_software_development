@@ -1,0 +1,15 @@
+C:\Users\felip\desktop\c-_software_development\bin\Debug\net9.0\c-_software_development.exe
+C:\Users\felip\desktop\c-_software_development\bin\Debug\net9.0\c-_software_development.deps.json
+C:\Users\felip\desktop\c-_software_development\bin\Debug\net9.0\c-_software_development.runtimeconfig.json
+C:\Users\felip\desktop\c-_software_development\bin\Debug\net9.0\c-_software_development.dll
+C:\Users\felip\desktop\c-_software_development\bin\Debug\net9.0\c-_software_development.pdb
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.AssemblyInfoInputs.cache
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.AssemblyInfo.cs
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.csproj.CoreCompileInputs.cache
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.sourcelink.json
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.dll
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\refint\c-_software_development.dll
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.pdb
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\c-_software_development.genruntimeconfig.cache
+C:\Users\felip\desktop\c-_software_development\obj\Debug\net9.0\ref\c-_software_development.dll
