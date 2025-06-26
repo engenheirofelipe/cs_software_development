@@ -55,6 +55,25 @@ class Program
         DateTime dataAtual = DateTime.Now;
         Console.WriteLine(dataAtual);
 
+        // Instanciando um objeto da classe Livro
+        Livro livro = new Livro()
+        {
+            Titulo = "As 48 Leis do Poder",
+            Autor = "Robert Greene",
+            NumeroPaginas = 400,
+            PossuiISBN = true,
+            AnoPublicacao = new DateTime(2022, 1, 1),
+            ISBN = "978-65-86110-00-5"
+        };
+
+        Pessoa pessoa = new();
+        pessoa.Cpf = "111.222.333-54";
+        pessoa.Nome = "Joseh Cabriolo";
+        pessoa.Idade = 22;
+        pessoa.Email = "joseh@gmail.com";
+        
+
+
 
 
 
